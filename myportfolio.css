@@ -373,10 +373,10 @@ iframe {
   
   .close-button {
    position: absolute;
-    top: 9px;
+   top: -14px;
     right: 19px;
     font-size: 44px;
-    color: #f8f8f8;
+    color: #ff0000;
     cursor: pointer;
 }
   }
